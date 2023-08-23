@@ -13,3 +13,8 @@ body {
 section {
   padding-top: 5rem;
 }
+
+.card-img-top {
+  max-width: 25rem;
+  max-height: 25rem;
+}
